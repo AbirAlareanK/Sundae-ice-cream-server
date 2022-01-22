@@ -1,7 +1,9 @@
 # sundae-server
-### A server for the "Testing react "
+### A server for the "Testing-library-jest" for react application
+[Sundaes on demands](https://github.com/AbirAlareanK/Testing-Library-Jest)
 
 ## Installing
+  Run `npm install` 
 ## Starting the server
 Run `npm start`. The server will be found at [http://localhost:3030]
 
